@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("Hello World");
 		System.out.println("A change was made");
 		System.out.println("hi");
-		
+		System.out.println("Testing IntelliJ");
 
 	}
 
